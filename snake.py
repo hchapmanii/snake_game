@@ -54,7 +54,7 @@ class Snake:
             self.head.setheading(270)
 
 
-# My Solution - Confirmed works do not delete
+# Another Solution - Confirmed works do not delete
 # class Snake:
 #     global starting_positions
 #     global segments
